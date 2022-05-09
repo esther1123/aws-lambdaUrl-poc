@@ -30,3 +30,6 @@ Example of calling DDB by lambda function url using CDK and Javascript.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+## Test 
+Using postman to send sample post/get request with lambda function url; Checking response and ddb record. 
